@@ -1,0 +1,25 @@
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.gadmin{
+    background-color: rgb(247, 255, 255);
+    padding: 25px;
+    margin: 0 10px;
+}
+
+.gdocs{
+    background-color: rgb(247, 255, 255);
+    padding: 25px;
+    margin: 0 10px;
+
+}
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #000080;
+  margin-top: 20px;
+  color: white;
+}
